@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649931483249",
+    "project_id": "customer-537ad",
+    "storage_bucket": "customer-537ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649931483249:android:9ec097bfcba0cf822113d0",
+        "android_client_info": {
+          "package_name": "com.foodigo.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649931483249-4kh04jedj9dtt6e4m6bg7idpgelor6ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABlBPa8TkwMW6FQrkCMyZ_Whzk4gMnFHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649931483249-4kh04jedj9dtt6e4m6bg7idpgelor6ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

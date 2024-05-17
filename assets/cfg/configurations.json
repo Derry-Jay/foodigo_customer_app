@@ -1,0 +1,16 @@
+{
+    "base_url": "https://applive.foodigo.in/",
+    "api_base_url": "https://applive.foodigo.in/api/",
+    "storage_base_url": "https://applive.foodigo.in/storage/app/public/",
+    "razor_pay_url": "https://api.razorpay.com/v1/",
+    "razor_pay_key": "rzp_test_nkQ1Q1TC6S094o",
+    "razor_pay_secret": "sHrZU3fE7Ltyg2bEL5i8j52I",
+    "razor_pay_plugin_attributes": {
+        "external" : {
+            "wallets" : ["paytm","phonepe","freecharge","payzapp","amazonpay","jiomoney","airtelmoney","paypal","mobikwik","olamoney"]
+        },
+        "theme": {
+            "color": "#a11414"
+        }
+    }
+}
